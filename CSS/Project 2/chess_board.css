@@ -1,0 +1,78 @@
+.main
+{
+    height: 640px;
+    width: 640px;
+    border: 2px solid #141111;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 3px;
+}
+u
+{
+    font-size: 90px;
+}
+.black{
+    border: 1px soild black;
+    height: 80px;
+    width: 80px;
+    background-color: black;
+    float: left;
+}
+.white{
+    border: 1px soild rgb(0, 0, 0);
+    height: 80px;
+    width: 80px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+}
+.first
+{
+    color: white;
+    margin-left: 25px;
+    margin-top: 16px;
+    font-size: 45px;
+}
+.first-2
+{
+    color: white;
+    margin-left: 23px;
+    margin-top: 16px;
+    font-size: 45px;
+}   
+
+.first-3
+{
+    color: white;
+    margin-left: 18px;
+    margin-top: 16px;
+    font-size: 45px;
+}
+.second
+{
+    color: rgb(0, 0, 0);
+    margin-left: 25px;
+    margin-top: 16px;
+    font-size: 45px;
+}
+
+.second-2
+{
+    color: rgb(0, 0, 0);
+    margin-left: 21px;
+    margin-top: 16px;
+    font-size: 45px;
+}
+.first-5
+{
+    color: rgb(255, 255, 255);
+    margin-left: 21px;
+    margin-top: 16px;
+    font-size: 45px;
+}
+.second-3
+{
+    color: rgb(0, 0, 0);
+    margin-left: 18px;
+    margin-top: 16px;
+    font-size: 45px;
+}

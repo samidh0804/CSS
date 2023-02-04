@@ -1,0 +1,16 @@
+.txt1{
+    height: 200px;
+    width: 500px;
+    border: 2px solid black;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 15px 5px;
+    /*display: inline;*/
+   /* margin: auto;*/
+}
+.disp{
+    width: 400px;
+    border: 2px solid green;
+    border-radius: 4px;
+    display: inline-block;
+}

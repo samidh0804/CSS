@@ -1,0 +1,14 @@
+#fontprp{
+    font-family: 'Segoe UI';
+    font-size: x-large;
+    font-weight: 400;
+    font-variant: small-caps;
+    /*line-height: 70px;
+    letter-spacing: 7px;*/
+    word-spacing: 20px;
+    text-indent: 70px;
+}
+.txtdec{
+    text-decoration: underline dashed;
+    text-transform: capitalize;
+}

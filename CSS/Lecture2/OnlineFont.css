@@ -1,0 +1,13 @@
+#fontprp{
+    font-family: 'Roboto', sans-serif;
+}
+.txtdec{
+    font-family: 'Explora', cursive;
+}
+@font-face {
+    font-family: myfirstfont;
+    src: url(Font/DancingScript-VariableFont_wght.ttf);
+}
+.new{
+    font-family:myfirstfont;
+}
